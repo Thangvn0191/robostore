@@ -5,7 +5,7 @@ const products = [
       "id": 1,
       "name": "Robot Alpha",
       "description": "Robot Alpha is designed for industrial automation with high precision and reliability.",
-      "price": "$500",
+      "price": "$50000",
       "image": "https://i.pinimg.com/564x/f1/7d/db/f17ddb244e3f2f6a720e61cd3f8161fb.jpg"
     },
     {
